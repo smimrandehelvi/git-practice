@@ -1,0 +1,4 @@
+line number one.
+line number two.
+line numner three (this line added after "git add. " command run.
+
