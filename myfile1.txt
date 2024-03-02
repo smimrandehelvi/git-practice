@@ -1,4 +1,6 @@
 line number one.
 line number two.
 line numner three (this line added after "git add. " command run.
-
+line number four (after first commit)
+line number five.
+line number six.p (prepare to second commit)
